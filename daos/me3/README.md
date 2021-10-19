@@ -1,6 +1,6 @@
 # Meme MetaVoxelDAO
 
-<img src="https://daos.snowcrash.space/company-list/me3/logo.svg" width="100" />
+<img src="https://daos.snowcrash.space/daos/me3/logo.svg" width="100" />
 
 Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual company in the MetaVoxel world serving MetaVoxel world citizens and virtual companies (Including SnowCrash DAO). Meme MetaVoxelDAO has two important missions:
 

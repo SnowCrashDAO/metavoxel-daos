@@ -6,7 +6,7 @@ In MetaVoxel, anyone and any organization can create their own company, issue co
 
 ## Company List
 
-- [Meme MetaVoxelDAO](https://daos.snowcrash.space/company-list/me3/)
+- [Meme MetaVoxelDAO](https://daos.snowcrash.space/daos/me3/)
 - TOMOON Mining MetaVoxelDAO
 - Zenith Mining MetaVoxelDAO
 - SnowNation Mining MetaVoxelDAO
