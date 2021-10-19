@@ -1,6 +1,6 @@
 # Zenith MetaVoxelDAO
 
-<img src="https://daos.snowcrash.space/daos/zenith/logo.svg" width="100" />
+<img src="https://i.ibb.co/6vRyBp6/cone-Zenith.png" width="180" />
 
 Zenith MetaVoxelDAO, is a virtual mining company in the MetaVoxel world. 
 During the more than 20 years I have been involved in high technology, now we are a family and still involved in high technology. 
