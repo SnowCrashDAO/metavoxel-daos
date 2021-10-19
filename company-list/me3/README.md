@@ -1,6 +1,6 @@
 # Meme MetaVoxelDAO
 
-<img src="https://daos.snowcrash.space/static/company_logo/me3.svg" width="200" />
+<img src="https://daos.snowcrash.space/static/company_logo/me3.svg" width="100" />
 
 Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual company in the MetaVoxel world serving MetaVoxel world citizens and virtual companies (including SnowCrash DAO). Meme MetaVoxelDAO has two important missions:
 
@@ -57,7 +57,7 @@ One MEPE (Metavoxel Petrichor Island land NFT, [click here to learn more](https:
 
 *Note: The contract address and Meme MetaVoxelDAO financial wallet do not participate in this airdrop event.*
 
-## Related links
+## Further reading
 
 - [MetaVoxel islands and land](https://docs.snowcrash.finance/gameplay/islands-and-land)
 - [Petrichor Island and land](https://docs.snowcrash.finance/gameplay/islands-and-land/petrichor-island)
