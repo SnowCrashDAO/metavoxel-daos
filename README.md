@@ -11,6 +11,8 @@ In MetaVoxel, anyone and any organization can create their own company, issue co
 - Zenith Mining MetaVoxelDAO
 - SnowNation Mining MetaVoxelDAO
 
+<img src="https://daos.snowcrash.space/static/agreement_a2.svg" width="500" />
+
 ## Help us make these docs great!
 
 All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
