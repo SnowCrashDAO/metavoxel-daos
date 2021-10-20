@@ -4,7 +4,7 @@
 
 ToMoon Mining MetaVoxelDAO is a virtual company located on MetaVoxel Petrichor island. The company's main business is to explore various mineral resources and cryptocurrencies in the MetaVoxel world. We welcome all the players who loves exploration to join our company.  
 
-## Our company will provide the following support for our members:
+## Our company will provide the following support for our members
 
 1. Training of mining skills. Even if you are a novice player, you don't have to worry at all. The company will provide the whole operation process and technical guidance. If you encounter any problems in the mining process, the company will also help you solve them.
 2. Exchange of mining experience.
