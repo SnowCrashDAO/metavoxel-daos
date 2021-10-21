@@ -29,4 +29,9 @@ Coming soon
 - [Petrichor Island and land](https://docs.snowcrash.finance/gameplay/islands-and-land/petrichor-island)
 - [MetaVoxel Virtual Company](https://docs.snowcrash.finance/gameplay/virtual-company)
 
+## Contact Us
+
+- Twitter [@SnowNation_corp](https://twitter.com/SnowNation_corp)
+- Telegram [@snow_nation_corp](https://t.me/snow_nation_corp)
+
 <img src="https://daos.snowcrash.space/static/world_a1.svg" width="500" />
