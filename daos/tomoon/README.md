@@ -19,6 +19,6 @@ ToMoon Mining MetaVoxelDAO is committed to building the best mining company in t
 ## Contact Us
 
 - Twitter [@TOMOON_Corp](https://twitter.com/TOMOON_Corp)
-- Telegram [@TOMOON_Mining_MetaVoxelDAO](https://0.plus/TOMOON_Mining_MetaVoxelDAO)
+- Telegram [@TOMOON_Mining_MetaVoxelDAO](https://t.me/TOMOON_Mining_MetaVoxelDAO)
 
 <img src="https://daos.snowcrash.space/static/world_a1.svg" width="500" />
