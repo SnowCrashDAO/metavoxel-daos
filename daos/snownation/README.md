@@ -1,4 +1,4 @@
-# Meme MetaVoxelDAO
+# SnowNation Mining MetaVoxelDAO
 
 <img src="https://daos.snowcrash.space/daos/snownation/logo.png" width="100" />
 
