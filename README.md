@@ -9,7 +9,7 @@ In MetaVoxel, anyone and any organization can create their own company, issue co
 - [Meme MetaVoxelDAO](https://daos.snowcrash.space/daos/me3/)
 - TOMOON Mining MetaVoxelDAO
 - Zenith Mining MetaVoxelDAO
-- [SnowNation MetaVoxelDAO](https://daos.snowcrash.space/daos/snc/)
+- [SnowNation MetaVoxelDAO](https://daos.snowcrash.space/daos/snownation/)
 
 <img src="https://daos.snowcrash.space/static/world_a2.svg" width="500" />
 

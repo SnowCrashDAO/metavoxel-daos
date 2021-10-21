@@ -1,6 +1,6 @@
 # Meme MetaVoxelDAO
 
-<img src="https://daos.snowcrash.space/daos/snc/logo.png" width="100" />
+<img src="https://daos.snowcrash.space/daos/snownation/logo.png" width="100" />
 
 SnowNation Mining MetaVoxelDAO(SMM) is one of the first private commercial establishments in Metavoxel Space. SnowNation is primarily dedicated to helping SnowCrash space grow a healthy and sustainable economy in the MetaVoxel world and a happy community in the real world, to achieve the same it has some very clear goals set for the year 2021.
 
