@@ -11,6 +11,8 @@ In MetaVoxel, anyone and any organization can create their own company, issue co
 - [Zenith Mining MetaVoxelDAO](https://daos.snowcrash.space/daos/zenith/)
 - [SnowNation Mining MetaVoxelDAO](https://daos.snowcrash.space/daos/snownation/)
 - [Hiro Mining MetaVoxelDAO](https://daos.snowcrash.space/daos/hiro/)
+- SLG Marketing MetaVoxelDAO
+- Ramen Mining MetaVoxelDAO
 
 <img src="https://daos.snowcrash.space/static/world_a2.svg" width="500" />
 
