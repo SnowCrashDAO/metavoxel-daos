@@ -1,12 +1,16 @@
+# Ramen Mining MetaVoxelDAO
+
+<img src="https://daos.snowcrash.space/daos/ramen/logo.png" width="100" />
+
 Ramen Mining MetaVoxelDAO🍜 is a virtual comapany located in Petrichor Island, MetaVoexel World. We aim to make work fun and lively for MetaVoxel Citiziens.
 Also, all employees gets free ramen!🍜
 
 ## What about us?
+
 1. Providing work that is fun and rewarding for all members.
 2. Providing continuos training and support, making sure the members could be a productive member of MetaVoxel World.
 2. Fostering the spirit of collaboration, making sure that every member's voice is heard in shaping the future of RamenDAO.
 4. Oh, and all members gets free ramen!🍜
-
 
 ## Token overview
 
